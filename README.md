@@ -90,13 +90,6 @@ Articles & News related to CIA's Style Manual & Writers Guide
 
 - [Communicating with Intelligence: Writing and Briefing for National Security](https://www.amazon.com/Communicating-Intelligence-Briefing-Professional-Education/dp/1442226625) (James S. Major)
 
-#### Trainings/Courses
-
-- [Threat Intelligence Writing](https://school.threatintel.academy/courses/cti-writing) (Threat Intelligence Academy)
-- [Reporting for Analysts](https://i-intelligence.eu/courses/reporting-for-analysts) (I-Intelligence)
-- [Analytic Writing, Reporting, Briefs, and Dissemination](https://treadstone71.com/index.php/cyber-intelligence-training/analytic-writing) (Treadstone71)
-- [Introduction to Analytic Tradecraft Writing](https://www.fedlearn.com/courses/course-v1:fedlearn+ICIC101+2020_Q2/about) (FedLearn)
-
 ---
 
 #### Bonus
@@ -104,20 +97,3 @@ Articles & News related to CIA's Style Manual & Writers Guide
 - [Style Guides by Government Agencies](https://digital.gov/resources/style-guides-by-government-agencies/)
 - [The Elements of Style - Strunk & White](https://www.bartleby.com/141/)
 - [Psychology of Intelligence Analysis](https://www.cia.gov/static/9a5f1162fd0932c29bfed1c030edf4ae/Pyschology-of-Intelligence-Analysis.pdf)
-
----
-#### Contribute <3
-
-There are little public resources about this specific topic. Please feel free to contribute on this project, either by sending a PR or sending me a message at ygormaximo@pm.me with suggestions of additional resources.
-
----
-
-#### Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/mxm0z/awesome-intelligence-writing.svg)](https://starchart.cc/mxm0z/awesome-intelligence-writing)
-
----
-
-#### Disclaimer
-
-I currently work as a Cyber Threat Intelligence Analyst but **I'm not an expert on intelligence writing**. I created this collection as part of my learning process of this essential topic and as a way to share and learn with the intelligence/cybersecurity community.
