@@ -4,53 +4,7 @@ When building an academy item on inteligence writing, I needed to have a central
 
 ---
 
-### Official EU & US guidance
-
-### NATO
-
-- [Allied Joint Doctrine for the conduct of operations](https://www.cimic-coe.org/resources/external-publications/ajp-01-edf-v1-f.pdf)
-- [Joint Analysis Handbook](https://www.jallc.nato.int/application/files/9416/0261/6056/Joint_Analysis_Handbook_4th_edition.pdf)
-- [Alternative Analysis Handbook](https://www.act.nato.int/wp-content/uploads/2023/05/alta-handbook.pdf)
-
-#### Central Intelligence Agency (CIA)
-
-- [Style Manual & Writers Guide for Intelligence Publications](https://fas.org/irp/cia/product/style.pdf)
-- [Analytic Thinking and Presentation for Intelligence Producers](https://cryptome.org/cia-ath-pt1.htm)
-
-Articles & News related to CIA's Style Manual & Writers Guide
-
-- [Writing Tips from the CIA's Ruthless Style Manual](https://qz.com/231110/writing-tips-from-the-cias-ruthless-style-manual/)
-- [The CIA style guide goes online: now you can learn to write like a spy](https://www.theguardian.com/world/shortcuts/2014/jul/09/cia-writers-guide-leaked-online)
-- [The CIA Released Their Style Guide, and It's Absolutely Fascinating](https://blog.hubspot.com/marketing/cia-style-guide)
-- [Mission Grammatical: CIA Has 185-Page Writing Style Book](https://abcnews.go.com/blogs/headlines/2014/07/mission-grammatical-cia-has-185-page-writing-style-book)
-- [The CIA and the Power of Words](https://hyperallergic.com/136974/the-cia-and-the-power-of-words/)
-- [11 Grammar Lessons From a Leaked CIA Style Book](https://www.mentalfloss.com/article/57743/11-grammar-lessons-leaked-cia-style-book)
-
-#### Mercyhurst College - Institute for Intelligence Studies
-- [The Analyst's Style Manual](https://ncirc.bja.ojp.gov/sites/g/files/xyckuh326/files/media/document/analysts_style_manual.pdf)
-
-#### Defense Intelligence Agency (DIA)
-- [DIA's Style Manual for Intelligence Production](https://www.governmentattic.org/23docs/DIAstyleManualIntelProd_2016.pdf) (governmentattic.org)
-- [DIA's Style Manual for Intelligence Production](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/149619/) (dia.mil)
-
-#### Office of the Director of National Intelligence (DNI)
-
-- [ICD 203 - Analytic Standards](https://www.dni.gov/files/documents/ICD/ICD%20203%20Analytic%20Standards.pdf)
-- [ICD 206 - Sourcing Requirements for Disseminated Analytic Products](https://www.dni.gov/files/documents/ICD/ICD%20206.pdf)
-- [ICD 208 - Maximizing the Utility of Analytic Products](https://www.dni.gov/files/documents/ICD/ICD%20208%20-%20Maximizing%20the%20Utility%20of%20Analytic%20Products%20(09%20Jan%202017).pdf)
-
-#### U.S. Army Intelligence Center of Excellence
- 
-- [USAICoE Writing Program Resources](https://intellibrary.libguides.com/c.php?g=654854&p=6527880)
-- [Enhancing Your Intelligence Writing Writing Guide for USAICoE and U.S. Army Writing](https://intellibrary.libguides.com/ld.php?content_id=53826333)
-
-#### Department of Justice (DOJ)
-
-- [How to Write an Intelligence Product in the Bottom Line Up Front (BLUF) Format](http://dixon.hh.se/urbi/SCADA/BLUF%20Writing%20Format.pdf)
-
----
-
-### Community Resources
+### Community Resources based on official guidelines (see below for list)
 
 #### Articles
 
@@ -96,9 +50,54 @@ Articles & News related to CIA's Style Manual & Writers Guide
 
 - [Communicating with Intelligence: Writing and Briefing for National Security](https://www.amazon.com/Communicating-Intelligence-Briefing-Professional-Education/dp/1442226625) (James S. Major)
 
+
+### Official guidelines
+
+### NATO
+
+- [Allied Joint Doctrine for the conduct of operations](https://www.cimic-coe.org/resources/external-publications/ajp-01-edf-v1-f.pdf)
+- [Joint Analysis Handbook](https://www.jallc.nato.int/application/files/9416/0261/6056/Joint_Analysis_Handbook_4th_edition.pdf)
+- [Alternative Analysis Handbook](https://www.act.nato.int/wp-content/uploads/2023/05/alta-handbook.pdf)
+
+#### Central Intelligence Agency (CIA)
+
+- [Style Manual & Writers Guide for Intelligence Publications](https://fas.org/irp/cia/product/style.pdf)
+- [Analytic Thinking and Presentation for Intelligence Producers](https://cryptome.org/cia-ath-pt1.htm)
+
+Articles & News related to CIA's Style Manual & Writers Guide
+
+- [Writing Tips from the CIA's Ruthless Style Manual](https://qz.com/231110/writing-tips-from-the-cias-ruthless-style-manual/)
+- [The CIA style guide goes online: now you can learn to write like a spy](https://www.theguardian.com/world/shortcuts/2014/jul/09/cia-writers-guide-leaked-online)
+- [The CIA Released Their Style Guide, and It's Absolutely Fascinating](https://blog.hubspot.com/marketing/cia-style-guide)
+- [Mission Grammatical: CIA Has 185-Page Writing Style Book](https://abcnews.go.com/blogs/headlines/2014/07/mission-grammatical-cia-has-185-page-writing-style-book)
+- [The CIA and the Power of Words](https://hyperallergic.com/136974/the-cia-and-the-power-of-words/)
+- [11 Grammar Lessons From a Leaked CIA Style Book](https://www.mentalfloss.com/article/57743/11-grammar-lessons-leaked-cia-style-book)
+
+#### Mercyhurst College - Institute for Intelligence Studies
+- [The Analyst's Style Manual](https://ncirc.bja.ojp.gov/sites/g/files/xyckuh326/files/media/document/analysts_style_manual.pdf)
+
+#### Defense Intelligence Agency (DIA)
+- [DIA's Style Manual for Intelligence Production](https://www.governmentattic.org/23docs/DIAstyleManualIntelProd_2016.pdf) (governmentattic.org)
+- [DIA's Style Manual for Intelligence Production](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/149619/) (dia.mil)
+
+#### Office of the Director of National Intelligence (DNI)
+
+- [ICD 203 - Analytic Standards](https://www.dni.gov/files/documents/ICD/ICD%20203%20Analytic%20Standards.pdf)
+- [ICD 206 - Sourcing Requirements for Disseminated Analytic Products](https://www.dni.gov/files/documents/ICD/ICD%20206.pdf)
+- [ICD 208 - Maximizing the Utility of Analytic Products](https://www.dni.gov/files/documents/ICD/ICD%20208%20-%20Maximizing%20the%20Utility%20of%20Analytic%20Products%20(09%20Jan%202017).pdf)
+
+#### U.S. Army Intelligence Center of Excellence
+ 
+- [USAICoE Writing Program Resources](https://intellibrary.libguides.com/c.php?g=654854&p=6527880)
+- [Enhancing Your Intelligence Writing Writing Guide for USAICoE and U.S. Army Writing](https://intellibrary.libguides.com/ld.php?content_id=53826333)
+
+#### Department of Justice (DOJ)
+
+- [How to Write an Intelligence Product in the Bottom Line Up Front (BLUF) Format](http://dixon.hh.se/urbi/SCADA/BLUF%20Writing%20Format.pdf)
+
 ---
 
-#### Bonus
+#### Supporting materials
 
 - [Style Guides by Government Agencies](https://digital.gov/resources/style-guides-by-government-agencies/)
 - [The Elements of Style - Strunk & White](https://www.bartleby.com/141/)
