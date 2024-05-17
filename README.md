@@ -13,7 +13,6 @@ When building an academy item on inteligence writing, I needed to have a central
 - [My Fool Proof Process to Writing a Killer Intelligence Brief and Tips to Deliver Intelligence Assessments Better](http://www.intelligence101.com/my-full-proof-process-to-writing-a-killer-intelligence-brief-and-tips-to-deliver-intelligence-assessments-better/)
 - [The Three Skills Every Successful Intelligence Analyst Needs To Master: Tips on how to Write, Brief and Analyse](https://www.intelligence101.com/write-brief-and-analyse/)
 - [Intelligence Writing](https://www.e-education.psu.edu/geog571/node/431)
-- [How Intelligence Analysts Can Improve Critical Thinking and Writing Skills](https://amuedge.com/how-intelligence-analysts-can-improve-critical-thinking-and-writing-skills/)
 
 #### Papers
 
