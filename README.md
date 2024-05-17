@@ -4,7 +4,11 @@ When building an academy item on inteligence writing, I needed to have a central
 
 ---
 
-### Official Resources
+### Official US & EU guidance
+
+### NATO
+
+- [Joint Analysis Handbook](https://www.jallc.nato.int/application/files/9416/0261/6056/Joint_Analysis_Handbook_4th_edition.pdf)
 
 #### Central Intelligence Agency (CIA)
 
