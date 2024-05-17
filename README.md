@@ -4,11 +4,13 @@ When building an academy item on inteligence writing, I needed to have a central
 
 ---
 
-### Official US & EU guidance
+### Official EU & US guidance
 
 ### NATO
 
+- [Allied Joint Doctrine for the conduct of operations](https://www.cimic-coe.org/resources/external-publications/ajp-01-edf-v1-f.pdf)
 - [Joint Analysis Handbook](https://www.jallc.nato.int/application/files/9416/0261/6056/Joint_Analysis_Handbook_4th_edition.pdf)
+- [Alternative Analysis Handbook](https://www.act.nato.int/wp-content/uploads/2023/05/alta-handbook.pdf)
 
 #### Central Intelligence Agency (CIA)
 
