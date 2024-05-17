@@ -1,6 +1,6 @@
 ## Intelligence Writing
 
-When building an academy item on inteligence writing, I needed to have a central space for all - if not most - intelligence writing materials. Luckily some people already did some work on this. For example, [mxm0z](https://github.com/mxm0z) created a nice list which I refined further based on what I needed to create. 
+When building an academy item on inteligence writing, I needed to have a central space for all - if not most - intelligence writing sources. Luckily some people already did some great work on this. For example, [mxm0z](https://github.com/mxm0z) created a nice list of community materials which I refined further based on what I needed to create. Various official guidelines were added to make sure that the materials is properly reflecting the EU & US take on intelligence analysis & production (including writing). 
 
 ---
 
