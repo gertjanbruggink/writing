@@ -1,10 +1,6 @@
-## Intelligence Writing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/mxm0z/awesome-intelligence-writing)
+## Intelligence Writing
 
-_<div align="center">Good intelligence depends in large measure on clear, concise writing. (CIA)_</div>
-
-<div align="center">:male_detective:</div>
-
-This is a collection of great and very useful resources concerning **intelligence writing** such as manuals/guides, standards, books, and articles. There are both official and community resources. The collection is aimed to those looking to improve their intelligence writing skills (including me).
+When building an academy item on inteligence writing, I needed to have a central space for all - if not most - intelligence writing materials. Luckily some people already did some work on this. For example, [mxm0z](https://github.com/mxm0z) created a nice list which I refined further based on what I needed to create. 
 
 ---
 
@@ -47,6 +43,7 @@ Articles & News related to CIA's Style Manual & Writers Guide
 - [How to Write an Intelligence Product in the Bottom Line Up Front (BLUF) Format](http://dixon.hh.se/urbi/SCADA/BLUF%20Writing%20Format.pdf)
 
 ---
+
 ### Community Resources
 
 #### Articles
