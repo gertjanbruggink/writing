@@ -32,11 +32,6 @@ When building an academy item on inteligence writing, I needed to have a central
 - [Pen-To-Paper and The Finished Report: The Key To Generating Threat Intelligence](https://youtu.be/XEmksbsrnv8) (33min)
 - [Writing Meaningful Threat Intel Reports in MISP](https://youtu.be/suDo-p3Nu5w) (2h30min)
 
-#### Videos
-
-- [Overview of threat Intelligence Reports | Types of Cyber threat Intelligence Reports
-](https://youtu.be/J4vC4lC3qns) (13min)
-
 #### Podcasts
 
 - [How to Keep Finished Intelligence Fresh](https://www.recordedfuture.com/podcast-episode-64/) (Recorded Future)
