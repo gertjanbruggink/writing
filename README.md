@@ -19,7 +19,7 @@ When building an academy item on inteligence writing, I needed to have a central
 - [Write Like a Spy: Using U.S. Intelligence Guidelines to Reinforce the Lessons of Predictive Legal Writing](https://legal.thomsonreuters.com/content/dam/ewp-m/documents/legal/en/pdf/other/perspectives/2020/spring/2020-spring-article-4.pdf)
 - [Intelligence Analysis Reports: A How-to Writing Guide](https://ahsawc.files.wordpress.com/2014/02/intelligence-analysis-reports.pdf)
 - [CIA - IC Writing Style](https://nssp.unm.edu/important-resources/cia-writing_guide2017.pdf)
-- - [How To Write Like An Intelligence Analyst](https://s3.amazonaws.com/usma-media/inline-images/centers_research/west_point_writing_program/PDF/WPWP%20Guides/Intelligence_Writing_for_Academics.pdf)
+- [How To Write Like An Intelligence Analyst](https://s3.amazonaws.com/usma-media/inline-images/centers_research/west_point_writing_program/PDF/WPWP%20Guides/Intelligence_Writing_for_Academics.pdf)
 
 #### Discussions
 
